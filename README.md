@@ -21,4 +21,4 @@
 
 感谢你花时间访问我的 GitHub 主页！如果你喜欢我的项目或文章，欢迎给我一个 ⭐️ 或者关注我，我会继续分享更多有趣的内容。
 
- [![My Skills](https://skillicons.dev/icons?perline=20&i=js,html,css,bash,git,yarn,windows,webpack,vite,vscode,ts,tailwind,svg,sqlite,react,postman,pnpm,pinia,php,ps,npm,nodejs,nginx,mysql,md,linux,github,arch,babel,bootstrap,c,cpp,clion,cloudflare,codepen,docker,express)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?perline=20&i=spring,mysql,redis,idea,maven,postman,rabbitmq,rocket,ai,linux,github,docker,html,css,js,git,vite,vscode,postman,npm,nginx,c,cpp,windows)](https://skillicons.dev)
