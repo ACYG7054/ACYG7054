@@ -4,12 +4,12 @@
 
 - 前端开发:  HTML, CSS, JavaScript ,Vue 3, Vue Router,  Element UI
 - 后端开发:  Java, SpringBoot, SpringCloud, MyBatisPlus, Go, MySQL, Redis
+- AI应用：LangChain4j, MCP, Agent, LLM, RAG
 - 工具与环境: Git, Linux, Docker
-- 其他技能: MCP, Agent,LLM
 
 ### 🌱 我正在学习
 - SpringAi
-- JVM
+- AI应用开发
 
 ### 📝 其他
 
