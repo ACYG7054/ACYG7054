@@ -1,15 +1,16 @@
 ## 👋 你好，我是 ACYG！
-欢迎来到我的 GitHub 主页！我是一名后端开发者, 主要用Java进行软件开发。我数量掌握Java的各种技术栈, 同时也对Ai大模型的应用开发有浓厚的兴趣。我将在这里分享我的项目
+欢迎来到我的 GitHub 主页！我是一名后端开发者, 主要用Java进行软件开发。我熟练掌握Java的各种技术栈, 同时也对Ai大模型的应用开发有浓厚的兴趣。我将在这里分享我的项目
 ### 🚀 我的技能
 
 - 前端开发:  HTML, CSS, JavaScript ,Vue , Element-UI
 - 后端开发:  Java, SpringBoot, SpringCloud, MyBatis-Plus, MySQL, Redis......
-- AI应用：   LangChain4j, Agent, RAG, 大模型微调
+- AI应用：   LangChain，LangChain4j, Agent, RAG, LoRA微调
 - 工具与环境: Git, Linux, Docker
 
 ### 🌱 我正在学习
-- SpringAi
-- 大模型应用开发
+- Python
+- 组件开发
+- 源码学习
 
 ### 📝 其他
 
