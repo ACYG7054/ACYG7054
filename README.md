@@ -1,24 +1,29 @@
-## 👋 你好，我是 ACYG！
-欢迎来到我的 GitHub 主页！我是一名AI Gen全栈开发者, 主要用Java+Python进行软件开发。我熟练掌握Java的各种技术栈, 同时也对Ai大模型的应用开发有浓厚的兴趣。我将在这里分享我的项目
-### 🚀 我的技能
+# 👋 Hey, I'm ACYG!
 
-- 前端开发:  HTML, CSS, JavaScript ,Vue
-- 后端开发:  Java, SpringBoot, SpringCloud, MyBatis-Plus, MySQL, Redis, Python, FastAPI
-- AI应用：   LangChain, LangChain4j, LangGraph, Agent, RAG, LoRA微调
-- 工具与环境: Git, Linux, Docker
+### 🧠简介
+AI应用全栈开发者，计划造一个桌面机器人 🤖
+目前在深圳从事软件开发工作，业余时间专注于 AI 应用开发和桌面机器人项目。这里记录我的技术探索和项目实践。
 
-### 🌱 我正在学习
-- Python
-- Agent工作流编排
-- 源码学习
-- 人工智能基础：机器学习、深度学习、强化学习、NLP
+### 🔭 当前在做的事
 
-### 📝 其他
+-  桌面机器人项目 ：软硬件结合，从 AI 大脑到物理交互的全链路探索
+-  AI 应用开发 ： Agent 工作流编排、RAG、多模态交互等落地实践
 
-如果你有任何想法，欢迎通过以下方式联系我：
+### 🛠️ 技术栈
 
-- **邮箱**: 3220304324@qq.com
+- 软件开发：Java +Python
 
-感谢你花时间访问我的 GitHub 主页！如果你喜欢我的项目，欢迎给我一个 ⭐️ 或者关注我，我会继续分享更多有趣的内容。
+### 🌱正在学习
 
- [![My Skills](https://skillicons.dev/icons?perline=20&i=spring,mysql,redis,idea,maven,postman,rabbitmq,rocket,ai,linux,github,docker,html,css,js,git,vite,vscode,postman,npm,nginx,c,cpp,windows)](https://skillicons.dev)
+- 嵌入式开发
+- 硬件通信协议
+- ROS
+- 机器学习
+- 深度学习基础
+- Agent 架构设计
+
+### 📫 联系我
+
+📧 3220304324@qq.com
+
+如果觉得项目有意思，欢迎 ⭐️ 或 Follow，一起交流！
