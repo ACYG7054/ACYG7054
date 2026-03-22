@@ -1,32 +1,33 @@
-# 👋 Hey, I'm ACYG!
+# Hey, I'm ACYG 👋
 
-### 🤖简介
-AI应用全栈开发者，计划造一个桌面机器人 
-目前在软件开发工作，业余时间专注于 AI 应用开发和桌面机器人项目。这里记录我的技术探索和项目实践。
+**AI 应用全栈开发者 | 桌面机器人造梦者**
 
-### 🌱成长经验分享
-，在线阅读：https://acyg7054.github.io/Share/
+白天写代码，晚上搞 AI 和机器人。目标是造一个有"灵魂"的桌面机器人 —— 从 AI 大脑到物理交互，全链路自己撸。
+
+> 📖 成长经验分享（在线阅读）：[acyg7054.github.io/Share](https://acyg7054.github.io/Share/)
+
+---
 
 ### 🔭 当前在做的事
 
--  桌面机器人项目 ：软硬件结合，从 AI 大脑到物理交互的全链路探索
--  AI 应用开发 ： Agent 工作流编排、RAG、多模态交互等落地实践
+- **桌面机器人项目** — 软硬件结合，从语音交互、视觉感知到舵机控制的探索
+- **AI 应用开发** — Agent 工作流编排 · RAG · 多模态交互，专注落地实践
 
 ### 🛠️ 技术栈
 
-- 软件开发：Java +Python
-
-### 🧠正在学习
-
-- 嵌入式开发
-- 硬件通信协议
-- ROS
-- 机器学习
-- 深度学习基础
-- Agent 架构设计
+```text
+后端        Java · Python · FastAPI · Spring Boot
+AI/ML      LangChain · LangGraph · RAG · Prompt Engineering
+正在学习    嵌入式开发 · 硬件通信协议 · ROS · 深度学习 · Agent 架构设计
+工具链      Claude Code · Git · Docker · MkDocs
+```
 
 ### 📫 联系我
 
-📧 3220304324@qq.com
+- 📧 Email: 3220304324@qq.com
 
-如果觉得项目有意思，欢迎 ⭐️ 或 Follow，一起交流！
+---
+
+<p align="center">
+  会持续更新，欢迎 ⭐️ Star 或 Follow，一起交流！
+</p>
