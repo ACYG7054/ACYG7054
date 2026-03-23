@@ -25,7 +25,7 @@ AI/ML      LangChain · LangGraph · RAG · Prompt Engineering
 ### 📫 联系我
 
 - 📧 Email: 3220304324@qq.com
-
+- 📕 小红书: 5332538440
 ---
 
 <p align="center">
